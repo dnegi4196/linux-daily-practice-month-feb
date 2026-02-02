@@ -16,4 +16,6 @@ cd ~
 vim
 mv
 mv file1 file2
-
+git add .     new file + modified ( some time delete miss kar deta h or ye puri ek directory cover karta h ) 
+git add -A    new file + modified + deleted ( all ) or bhi directory ke liye h
+git add filename     only ek file
