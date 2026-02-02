@@ -14,3 +14,6 @@ mkdir
 cd
 cd ~
 vim
+mv
+mv file1 file2
+
