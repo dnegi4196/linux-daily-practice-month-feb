@@ -19,3 +19,10 @@ mv file1 file2
 git add .     new file + modified ( some time delete miss kar deta h or ye puri ek directory cover karta h ) 
 git add -A    new file + modified + deleted ( all ) or bhi directory ke liye h
 git add filename     only ek file
+
+git config --global credential.helper store ( store for parmanent )
+git config --global credential.helper cache ( temporary )
+
+git config --global --unset credential.helper ( credential htane ke liye ) 
+
+
