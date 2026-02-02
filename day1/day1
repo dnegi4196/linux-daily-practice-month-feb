@@ -23,6 +23,7 @@ git add filename     only ek file
 git config --global credential.helper store ( store for parmanent )
 git config --global credential.helper cache ( temporary )
 
-git config --global --unset credential.helper ( credential htane ke liye ) 
+git config --global --unset credential.helper ( credential htane ke liye )
+222i2 
 
 
