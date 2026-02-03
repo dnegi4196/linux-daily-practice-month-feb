@@ -1,0 +1,6 @@
+
+ls -l   list ke liye
+ls -la   a ka use hidden file ke liye
+ls -lah  h human readable ke liye
+
+
