@@ -3,4 +3,16 @@ ls -l   list ke liye
 ls -la   a ka use hidden file ke liye
 ls -lah  h human readable ke liye
 
+rmdir dir    emplty folder ke liye sirf
+ in which recursive option not available
+
+rm bydefault file ke hota h 
+or isme recursive lagta h
+
+rmdir only empty file 
+rm file only
+rm -r ( directory + content )
+
+unlink file name  ( ye sirf file delete karta h dir nhi )
+
 
