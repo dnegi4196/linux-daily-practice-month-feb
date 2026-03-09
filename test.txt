@@ -2,3 +2,4 @@
 
 hello devops
 learning git
+git diff
