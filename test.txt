@@ -4,4 +4,4 @@ hello devops
 learning git
 git diff
 checking commmadn working or not
-
+command kya h bus check karna h 
