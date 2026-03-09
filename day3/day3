@@ -1,0 +1,755 @@
+1  ls
+    2  pwd
+    3  ls -l
+    4  cd -iname documents
+    5  cd -iname Documents
+    6  cd Documents
+    7  mkdir rohit ronin raju rampal rohan rijwani
+    8  ls
+    9  ls -l
+   10  mk dir
+   11  mkdir devops
+   12  ls
+   13  mv Downloads/devops/ raju/ rampal/ rijwani/ rohan/ rohit/
+   14  ls
+   15  cd devops/
+   16  ls
+   17  ls -l
+   18  ls
+   19  cd ..
+   20  ls
+   21  mv devops/ /.
+   22  ls
+   23  ls -l
+   24  cd ..
+   25  ls
+   26  cd Documents
+   27  cd devops/
+   28  mkdir sachin
+   29  mkdir ./new1 ./new2 ./new3 ./new4
+   30  ls
+   31  pwd
+   32  mkdir ../new1 ../new2 ../new3 ../new4
+   33  ls
+   34  cd .
+   35  cd ..
+   36  ls
+   37  vim sachin.sh
+   38  ls
+   39  vim sachin.sh
+   40  cat sachin.sh
+   41  vim sachin.sh
+   42  cat sachin.sh
+   43  ls
+   44  cd devops
+   45  ls
+   46  mkdir -p script
+   47  ls
+   48  mkdir -p new1/devops2
+   49  ls
+   50  cd new1
+   51  ls
+   52  cd devops2/
+   53  ls
+   54  cd ..
+   55  ls
+   56  mkdir -p new1/devops1 | touch logs
+   57  ls
+   58  ls -l
+   59  ls
+   60  cd new
+   61  cd new1
+   62  ls
+   63  cd devops
+   64  cd devops1
+   65  ls
+   66  cd ....
+   67  cd ..
+   68  cd devops
+   69  cd devops1
+   70  cd ../../
+   71  ls
+   72  mkdir -p new1/devops1
+   73  ls
+   74  mkdir -p new1/devops1 && touch devops/new1/devops1/logs
+   75  mkdir -p new1/devops1 && touch /devops/new1/devops1/logs.txt
+   76  clear
+   77  sudo apt install spice-vagent -y
+   78  sudo restart
+   79  su restart
+   80  sudo reboot
+   81  ls
+   82  mkdir -p
+   83  ls
+   84  sudo systemctl enable spice-vdagent
+   85  sudo apt install spice-vdagent xrdp -y
+   86  clear
+   87  ifconfig
+   88  ip a
+   89  ip addr show eth0
+   90  sudo dhclient eth0
+   91  sudo systemctl restart networkmanager
+   92  sudo systemctl restart systemd-networkd
+   93  ifconfig
+   94  ls /etc/noplan
+   95  ls
+   96  ls -la
+   97  ls -l
+   98  ls -lh
+   99  sudo -i
+  100  sudo reboot
+  101  ifconfig
+  102  sudo apt update
+  103  sudo apt install vdagent -y
+  104  sudo systemctl enable spice-vdagent
+  105  sudo systemctl start spice-vdagent
+  106  sudo systemctl enable xrdp
+  107  sudo apt install spice-vdagent xrdp -y
+  108  sudo systemctl enable spice-vdagent
+  109  sudo systemctl start spice-vdagent
+  110  sudo systemctl enable xrdp
+  111  sudo systemctl start xrdp
+  112  sudo reboot
+  113  sudo Dinesh
+  114  logout
+  115  exit
+  116  pwd
+  117  ls
+  118  sudo -i
+  119  lsb_release -a
+  120  sudo apt update && sudo apt upgrade -y
+  121  sudo apt install apache2 -y
+  122  sudo systemctl status apache2
+  123  ifconfig
+  124  sudo apt install python3 python3-pip -y
+  125  pip3 install flask
+  126  python3 --version
+  127  sudo mkdir -p /var/www/fileconvert
+  128  cd /var/www/fileconvert
+  129  sudo mkdir uploads downloads templates
+  130  ls
+  131  tree
+  132  ls -l
+  133  sudo chown -R $dinesh:$dinesh /var/www/fileconvert
+  134  ls -l
+  135  sudo chown -R dinesh:dinesh /var/www/fileconvert
+  136  ls -l
+  137  vim app.py
+  138  python3 app.py
+  139  python3 --version
+  140  sudo apt install python3-flask -y
+  141  python3 app.py
+  142  sudo apt install libreoffice -y
+  143  ls
+  144  vim app.py
+  145  cd var
+  146  cd /var
+  147  cd www/
+  148  cd fileconvert/
+  149  vim app.py
+  150  rm app.py
+  151  ls
+  152  vim app.py
+  153  cat app.py
+  154  ifconfig
+  155  Running on http://0.0.0.0:5000
+  156  Running on http://192.168.202.121:5000
+  157  python3 app.py
+  158  ls
+  159  ls -l
+  160  cd downloads/
+  161  ls
+  162  cd ..
+  163  rm app.py
+  164  vim app.py
+  165  python3 app.py
+  166  rm app.py
+  167  vim app.py
+  168  rm app.py
+  169  vim app.py
+  170  python3 app.py
+  171  rm app.py
+  172  vim app.py
+  173  python3 app.py
+  174  sudo apt install libreoffice imagemagick poppler-utils -y
+  175  python3 app.py
+  176  cd /var/
+  177  cd /www
+  178  ls
+  179  cd www
+  180  cd fileconvert/
+  181  python3 app.py
+  182  sudo shutdown
+  183  shutdown -cexit
+  184  shutdown -c
+  185  ls
+  186  ls -l
+  187  sudo systemctl start ssh
+  188  sudo systemctl enable ssh
+  189  systemctl status ssh
+  190  whoami
+  191  dir
+  192  pwd
+  193  ifconfig
+  194  sudo apt install openssh-server -y
+  195  systemctl status ssh
+  196  python3 app.py
+  197  ifconfig
+  198  ifconfig
+  199  ls
+  200  cd ..
+  201  ls
+  202  su - dinesh
+  203  ls
+  204  cd var/www/
+  205  su -i
+  206  sudo root
+  207  sudo -i
+  208  ps
+  209  ps aux
+  210  ps aux | grep app.py
+  211  sudo kill 5878
+  212  ps aux | grep app.py
+  213  sudo kill 6864
+  214  su -i
+  215  sudo -i
+  216  ls
+  217  sudo -i
+  218  sudo apt update
+  219  ps
+  220  ifconfig
+  221  sudo root
+  222  su -root
+  223  su -i
+  224  sudo -i
+  225  ls
+  226  cmd <file.txt
+  227  cmd < file.txt
+  228  cmd < file
+  229  ls
+  230  ls -h hh
+  231  ls -lh hh
+  232  cp hh rockay
+  233  ls
+  234  ls -lh
+  235  cp test.sh test.sh.bak
+  236  ls
+  237  vim tatanano.sh
+  238  less tatanano.sh
+  239  cat tatanano.sh
+  240  tail -f tatanano.sh
+  241  grep -i Zxc tatanano.sh
+  242  grep -i we tatanano.sh
+  243  ls -l
+  244  sudo chmod 111 tatanano.sh
+  245  ls -l
+  246  vim t
+  247  vim tatanano.sh
+  248  chmod 333 tatanano.sh
+  249  ls
+  250  ls -l
+  251  vim tatanano.sh
+  252  chmod 000 tatanano.sh
+  253  ls
+  254  ls -l
+  255  vim tatanano.sh
+  256  ps -ef | grep nginx
+  257  top
+  258  systmctl status nginx
+  259  systemctl status nginx
+  260  df -h
+  261  du -sh /var/log/
+  262  cd /var/log
+  263  ls
+  264  cd ..
+  265  ls
+  266  ls -l
+  267  cd log/
+  268  ls
+  269  du -sh /var/log/
+  270  du -sh /var
+  271  free -m
+  272  shutdown
+  273  shutdown -c
+  274  ifconfig
+  275  sudo apt update
+  276  ps
+  277  ps -ef
+  278  ps aux
+  279  ps
+  280  ifconfig
+  281  ifconfgig
+  282  echo $
+  283  echo $?
+  284  echo $HOME
+  285  echo $USER
+  286  echo $user
+  287  sudo apt update
+  288  sudo apt install git -y
+  289  git --version
+  290  cd ~
+  291  pwd
+  292  git clone https://github.com/dnegi4196/linux-daily-practice-month-feb.git
+  293  ls
+  294  cd linux-daily-practice-month-feb/
+  295  mkdir day1
+  296  ls
+  297  cd day1/
+  298  vim day1
+  299  vim day1
+  300  git status
+  301  git add day1
+  302  git status
+  303  git commit -m day1
+  304  git status
+  305  git push origin main
+  306  git remote -v
+  307  git push origin main
+  308  ls -l
+  309  cd ..
+  310  ls -l
+  311  git status
+  312  git add .
+  313  ls
+  314  git commit -m day1/day1
+  315  git config --global user.email dnegi4196@gmail.com
+  316  git config --global user.name dinesh singh
+  317  git commit -m day1/day1
+  318  git push origin main
+  319  git config --global credential.helper store
+  320  git push origin main
+  321  ls
+  322  cd linux-daily-practice-month-feb/
+  323  cd day1/
+  324  ls
+  325  vim day1
+  326  git add -A
+  327  git status
+  328  git commit -m "add more lines"
+  329  git push origin main
+  330  git log
+  331  git log --oneline
+  332  git log
+  333  git log -4
+  334  git log -oneline
+  335  git log --oneline
+  336  git log --4
+  337  git log -4
+  338  git log --twoline
+  339  vim day1
+  340  git diff
+  341  git add -A
+  342  git commit -m "acidental line"
+  343  git push origin main
+  344  vim day1
+  345  git add _a
+  346  git add -A
+  347  git commit -m "line delete"
+  348  git push origin main
+  349  ls
+  350  ls -l
+  351  ls
+  352  cd linux-daily-practice-month-feb/
+  353  ls
+  354  cd day1/
+  355  mv day1 day2
+  356  ls
+  357  ls -l
+  358  git status
+  359  git add day2
+  360  git status
+  361  git commit -m day2
+  362  git status
+  363  git push day2
+  364  git status
+  365  git push origin main
+  366  git status
+  367  ls
+  368  mv day2 day1
+  369  vim day1
+  370  git add day
+  371  git add day1
+  372  git commit -m day1
+  373  git push origin main
+  374  git commit -m "add three lines"
+  375  git push origin main
+  376  ls
+  377  git add day1
+  378  git commit -m "add 3 lines"
+  379  git push origin main
+  380  git add -A
+  381  git status
+  382  git commit -m "add 3 line"
+  383  git push origin main
+  384  vim day1
+  385  cat day1
+  386  ls
+  387  ls
+  388  cd linux-daily-practice-month-feb/
+  389  cd day1/
+  390  git add .
+  391  git commit -m
+  392  git commit -m "add lines"
+  393  git push origin main
+  394  ls
+  395  ls -lh
+  396  ls -l
+  397  ls -lah
+  398  ls -lha
+  399  ls -hla
+  400  ls -alh
+  401  ls -ah
+  402  ls -a
+  403  ls
+  404  cd linux-daily-practice-month-feb/
+  405  cd day1/
+  406  ls
+  407  vim day1
+  408  git add -A
+  409  git commit -m "done"
+  410  git push origin main
+  411  git status
+  412  ls
+  413  mkdir day2
+  414  ls
+  415  vim day2
+  416  ls
+  417  ls -l
+  418  rm -r day2/
+  419  ls
+  420  vim day2
+  421  git add -A
+  422  git commit -m "day second"
+  423  git push origin main
+  424  ls
+  425  cd ..
+  426  ls
+  427  mkdir day2
+  428  ls
+  429  cd day1
+  430  ls
+  431  vim day3
+  432  ls
+  433  mv day3 /..day2/
+  434  mv day3 ../day2/
+  435  ls
+  436  cd day2
+  437  ls
+  438  ls -l
+  439  cd ..
+  440  ls -l
+  441  cd day2/
+  442  ls
+  443  rm day3
+  444  ls
+  445  cd ..
+  446  ls
+  447  cd days2
+  448  cd day2
+  449  ls
+  450  ls -l
+  451  cd ..
+  452  ls
+  453  naano iki fiel kha banegi
+  454  ls
+  455  cd linux-daily-practice-month-feb/
+  456  ls
+  457  cd say3
+  458  ls -l
+  459  cd day1
+  460  ls
+  461  ls -l
+  462  mv day2 ../day2/
+  463  ls
+  464  cd ..
+  465  ls
+  466  cd day2
+  467  ls
+  468  vim day2
+  469  git add -A
+  470  git commit -m "day2"
+  471  git push origin main
+  472  ls
+  473  mkdir dinesh singh Negi
+  474  ls
+  475  rm dinesh singh Negi
+  476  rm -r dinesh singh Negi
+  477  ls
+  478  mkdir dinesh singh
+  479  cd singh/
+  480  nano singh1
+  481  ls
+  482  vim singh1
+  483  ls
+  484  cd ..
+  485  ls
+  486  rmdir dinesh singh
+  487  ls
+  488  rmdir -r singh
+  489  rm singh
+  490  rm -r singh/
+  491  ls
+  492  cd d
+  493  cd day2
+  494  ls -a
+  495  ls -lh
+  496  vim day2
+  497  mkdir dinesh
+  498  ls
+  499  unlink dinesh/
+  500  rm dinesh
+  501  rm -r dinesh
+  502  ls
+  503  vim 400
+  504  ls
+  505  unlink 400
+  506  ls
+  507  vim day2
+  508  ifconfig
+  509  uptime
+  510  who
+  511  w
+  512  who -b
+  513  cat /proc/uptime
+  514  last
+  515  clear
+  516  w
+  517  top
+  518  press -p
+  519  press q
+  520  top
+  521  free -h
+  522  df -h
+  523  ps -ef
+  524  top
+  525  free 0h
+  526  free -h
+  527  lsblk
+  528  swapon --show
+  529  cat /etc/os-release
+  530  uptime
+  531  who
+  532  w
+  533  clear
+  534  free -m
+  535  free -g
+  536  free -h
+  537  lsblk
+  538  df -h
+  539  ls
+  540  ls /
+  541  pwd
+  542  ls
+  543  ls quit
+  544  ls /
+  545  ls /etc
+  546  ls /tmp
+  547  ls /home
+  548  ls
+  549  cd /home
+  550  pwd
+  551  ls
+  552  ls -a
+  553  cd dinesh/
+  554  pwd
+  555  ls -a
+  556  ls
+  557  mkdir vinod
+  558  mkdit doni1/test
+  559  mkdir doni1/test
+  560  mkdir -p doni1/test
+  561  ls
+  562  ls -lh
+  563  cd doni1/
+  564  ls
+  565  touch fi
+  566  ls
+  567  vim fi
+  568  cat fi
+  569  echo
+  570  echo "hello" > testfile
+  571  ls
+  572  echo "hello" >testfile
+  573  ls
+  574  echo "hello">testfile1
+  575  ls
+  576  cat testfile
+  577  mv file1 file2
+  578  cd ~
+  579  ls
+  580  pwd
+  581  ls
+  582  cd doni1/
+  583  cd ..
+  584  mv vinod donil
+  585  ls
+  586  cd doni
+  587  cd donil
+  588  ls
+  589  cd vi
+  590  \cd vinpod
+  591  cd vinod
+  592  lsd
+  593  ls
+  594  ls -a
+  595  vim tt
+  596  ls
+  597  vim ty
+  598  ls
+  599  mv tt tty
+  600  ls
+  601  vim yy uu rr
+  602  ls
+  603  vim yy uu rr
+  604  ls
+  605  vim uu
+  606  ls
+  607  touch gg hh jj
+  608  ls
+  609  rm gg hh jj tty ty uu yy
+  610  ls
+  611  ls -a
+  612  cd ..
+  613  ls
+  614  ls -a
+  615  ll
+  616  chmod 777 tatanano.sh
+  617  ls
+  618  ls -a
+  619  ls -h
+  620  ll
+  621  ip a
+  622  ifconfig
+  623  sudo systemctl status ssh
+  624  sudo systemctl start ssh
+  625  sudo systemctl enable ssh
+  626  sudo systemctl status ssh
+  627  ifconfig
+  628  ls
+  629  cd ..eixt
+  630  ls
+  631  cd ..
+  632  cd dinesh/
+  633  sudo groupadd devops
+  634  cat /etc/group
+  635  cat /etc/group | grep devops
+  636  sudo usermod -aG devops dinesh
+  637  cat /etc/group | grep devops
+  638  group dinesh
+  639  groups dinesh
+  640  ls
+  641  cd donil
+  642  ls
+  643  touch ee
+  644  ls
+  645  ll
+  646  sudo chown dinesh ee
+  647  ll
+  648  sudo chown budii ee
+  649  ll
+  650  ls
+  651  ll
+  652  sudo chgrp devops ee
+  653  ll
+  654  sudo chown dinesh:devops ee
+  655  ls
+  656  ll
+  657  sudo adduser fry
+  658  cat /
+  659  cat /home
+  660  cat /etc/
+  661  ls /
+  662  cd /home
+  663  ls
+  664  sudo userdel -r fry
+  665  ls
+  666  groups
+  667  id devops
+  668  Id root
+  669  id root
+  670  groups
+  671  cat /etc/group | grep devops
+  672  sudo gpasswd -d dinesh devops
+  673  sudo usermod -G devops budii
+  674  cat /etc/group | grep devops
+  675  sudo usermod -aG devops dinesh
+  676  cat /etc/group | grep devops
+  677  sudo gpasswd -d dinesh devops
+  678  ls
+  679  cat /etc/group | grep devops
+  680  cat /etc/password
+  681  cat /etc/passwd
+  682  cat /etc/passwd | grep budi
+  683  cat /etc/group | grep budi
+  684  nginx --version
+  685  sudo systemctl start nginx
+  686  sudo apt install nginx -y
+  687  nginx --version
+  688  nginx -vexit
+  689  nginx -v
+  690  sudo apt install nginx
+  691  nginx --version
+  692  apt-get updateq
+  693  apt-get update
+  694  sudo apt-get update
+  695  sudo apt install nginx
+  696  sudo systemctl status nginx
+  697  sudo systemctl start nginx
+  698  sudo systemctl status nginx
+  699  sudo systemctl status apache
+  700  sudo lsof -i :80\
+  701  sudo systemctl stop apache
+  702  sudo systemctl stop apache2
+  703  sudo systemctl start nginx
+  704  sudo systemctl status nginx
+  705  ifconfig
+  706  sudo systemctl status nginx
+  707  sudo systemctl restart nginx
+  708  sudo systemctl enable nginx
+  709  sudo lsof -i :80q
+  710  sudo lsof -i :80
+  711  ls /var/www/html/
+  712  echo indec.html
+  713  vim index.html
+  714  rm index.html
+  715  cd /var
+  716  ls
+  717  cd www
+  718  ls
+  719  cd html/
+  720  ls
+  721  rm -r index.html
+  722  ls
+  723  vim index.html
+  724  rm index.html
+  725  ll
+  726  sudo rm -r index.html
+  727  ls
+  728  nginx -v
+  729  nginx --version
+  730  nginx -version
+  731  ls
+  732  ls /etc/nginx
+  733  sudo apt purge nginx
+  734  nginx -version
+  735  cat /etc/nginx
+  736  cat /etcq
+  737  cat /etc
+  738  cd etc
+  739  cd ..
+  740  ls
+  741  cd etc/
+  742  ll
+  743  ll | gerp nginx
+  744  ll | gerp timezone
+  745  ll | grep timezone
+  746  ps
+  747  ps -ef
+  748  free
+  749  free -m
+  750  free -g
+  751  free -h
+  752  top
+  753  history
+
+
